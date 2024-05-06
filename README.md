@@ -10,5 +10,5 @@ The metadata will be stripped, which will void the image for submission. Please 
 
 
 ## Setup
-1. Clone this repository into the `custom_nodes`
+1. Clone this repository into the `custom_nodes` folder in your ComfyUI directory
 2. Refresh ComfyUI (if it is running)
